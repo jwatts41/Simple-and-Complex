@@ -1,16 +1,30 @@
+body {
+    background-color: #fbfaf9 !important;
+}
+
+#header-photo {
+    height: 200px;
+    width: 320px;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+
+}
+
 .container-fluid {
     margin-top: -5px !important;
     margin-bottom: -5px;
-    background-color: rgb(0, 179, 255) !important;
+    background-color: black !important;
     padding: 2px;
    }
   
    #navbar2 {
-    background-color: rgb(0, 179, 255) !important;
+    background-color: black !important;
    }
   
    .navbar-brand {
-    background-color: rgb(0, 179, 255) !important;
+    background-color: black !important;
     color: white !important;
    }
    .navbar-toggler {
@@ -30,4 +44,5 @@
     border-radius: 40%;
    }
 
+   
    
