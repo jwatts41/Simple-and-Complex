@@ -1,0 +1,33 @@
+.container-fluid {
+    margin-top: -5px !important;
+    margin-bottom: -5px;
+    background-color: rgb(0, 179, 255) !important;
+    padding: 2px;
+   }
+  
+   #navbar2 {
+    background-color: rgb(0, 179, 255) !important;
+   }
+  
+   .navbar-brand {
+    background-color: rgb(0, 179, 255) !important;
+    color: white !important;
+   }
+   .navbar-toggler {
+    background-color: white !important;
+   }
+  
+   .navbar-toggler-icon {
+    background-color: white !important;
+   }
+  
+   .nav-link {
+    color: white !important;
+    margin-top: 10px;
+   }
+  
+   #navlogo {
+    border-radius: 40%;
+   }
+
+   
